@@ -9,6 +9,16 @@
 <hr>
 
 <section>
+  <h6 align="center">Informações:</h6>
+  <p>
+    Aluno: Matheus F. Santos<br>
+    Professor: Gabriel Artgias Pierri - Repositório <a href="https://github.com/gaplogan?tab=repositories" target="_blank">(Clique Aqui)</a>
+  </p>
+</section>
+
+<hr>
+
+<section>
   <h6 align="center">Navegação:</h6>
   <nav>
     <ul>
@@ -18,16 +28,6 @@
     </ul>
   </nav>
 <section> 
-
-<hr>
-
-<section>
-  <h6 align="center">Informações:</h6>
-  <p>
-    Aluno: Matheus F. Santos<br>
-    Professor: Gabriel Artgias Pierri - Repositório <a href="https://github.com/gaplogan?tab=repositories" target="_blank">(Clique Aqui)</a>
-  </p>
-</section>
 
 <hr>
 
