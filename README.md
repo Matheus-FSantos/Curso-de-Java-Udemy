@@ -12,7 +12,7 @@
   <h6 align="center">Informações:</h6>
   <p>
     Aluno: Matheus F. Santos<br>
-    Professor: Gabriel Artgias Pierri - Repositório <a href="https://github.com/gaplogan?tab=repositories" target="_blank">(Clique Aqui)</a>
+    Professor: Gabriel Artgias Pierri <a href="https://github.com/gaplogan?tab=repositories" target="_blank">(Repositório)</a>
   </p>
 </section>
 
